@@ -101,7 +101,7 @@ MONGO_URI=your_mongodb_connection_string
 * Client-Server Communication
 * State Management in React
 
----
+
 
 ## Screenshots
 
@@ -110,6 +110,6 @@ MONGO_URI=your_mongodb_connection_string
 <img width="1919" height="1158" alt="Screenshot 2026-06-11 164225" src="https://github.com/user-attachments/assets/661221aa-3fc5-44aa-b057-bb540cd71eea" />
 <img width="1359" height="572" alt="Screenshot 2026-06-11 164303" src="https://github.com/user-attachments/assets/7dfe5a26-0779-4be9-bb19-c9c39c12d451" />
 
-
+---
 
 
