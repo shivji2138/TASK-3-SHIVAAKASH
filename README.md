@@ -102,3 +102,14 @@ MONGO_URI=your_mongodb_connection_string
 * State Management in React
 
 ---
+
+## Screenshots
+
+<img width="1912" height="1092" alt="Screenshot 2026-06-11 164120" src="https://github.com/user-attachments/assets/b3a1369f-b1b7-4cdf-9acf-6f1e6003ec11" />
+<img width="1916" height="1142" alt="Screenshot 2026-06-11 164145" src="https://github.com/user-attachments/assets/f7b0b3ca-8f98-4cba-bad7-71d751637843" />
+<img width="1919" height="1158" alt="Screenshot 2026-06-11 164225" src="https://github.com/user-attachments/assets/661221aa-3fc5-44aa-b057-bb540cd71eea" />
+<img width="1359" height="572" alt="Screenshot 2026-06-11 164303" src="https://github.com/user-attachments/assets/7dfe5a26-0779-4be9-bb19-c9c39c12d451" />
+
+
+
+
